@@ -7,6 +7,7 @@ namespace PacmanSystem
     public class PacmanInvoker : MonoBehaviour
     {
         [SerializeField] private UIPacman ui;
+        [SerializeField] private Transform bonusList;
         [SerializeField] private int speed;
 
         private PacmanInput _pacmanInput;
@@ -39,23 +40,35 @@ namespace PacmanSystem
             transform.position = new Vector3(transform.position.x + _pacmanInput.Player.MoveX.ReadValue<float>() * speed * Time.deltaTime, transform.position.y + _pacmanInput.Player.MoveY.ReadValue<float>() * speed * Time.deltaTime);
         }
 
-        private void OnTriggerEnter(Collider other)
+        private void OnTriggerEnter2D(Collider2D other)
         {
             if (other.gameObject.layer == 8)
             {
                 _points++;
                 
                 ui.ChangePoint(_points);
+
+                if (_points >= bonusList.childCount)
+                {
+                    ui.WinPanel();
+                    Time.timeScale = 0;
+                }
             }
         }
 
-        private void OnCollisionEnter(Collision collision)
+        private void OnCollisionEnter2D(Collision2D collision)
         {
             if (collision.gameObject.layer == 7)
             {
                 _hp--;
                 
                 ui.ChangeHpPacman();
+
+                if (_hp <= 0)
+                {
+                    ui.LosePanel();
+                    Time.timeScale = 0;
+                }
             }
         }
     }

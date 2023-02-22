@@ -6,10 +6,11 @@ namespace EnemySystem
     public class Enemy : MonoBehaviour
     {
         [SerializeField] private int speed;
-        [SerializeField] private Transform target;
 
-        private NavMeshAgent _navMeshAgent;
-    
+        protected NavMeshAgent _navMeshAgent;
+
+        //private Transform _target;
+
         void Awake()
         {
             _navMeshAgent = GetComponent<NavMeshAgent>();
@@ -17,11 +18,6 @@ namespace EnemySystem
             _navMeshAgent.updateUpAxis = false;
 
             _navMeshAgent.speed = speed;
-        }
-
-        void Update()
-        {
-            _navMeshAgent.SetDestination(target.position);
         }
     }
 }

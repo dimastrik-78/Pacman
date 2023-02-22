@@ -9,6 +9,8 @@ namespace UISystem
     {
         [SerializeField] private Text point;
         [SerializeField] private List<GameObject> hpPacman;
+        [SerializeField] private GameObject losePanel;
+        [SerializeField] private GameObject winPanel;
         
         private void Awake()
         {
@@ -24,6 +26,16 @@ namespace UISystem
         {
             hpPacman[^1].SetActive(false);
             hpPacman.RemoveAt(hpPacman.Count - 1);
+        }
+
+        public void LosePanel()
+        {
+            losePanel.SetActive(false);
+        }
+
+        public void WinPanel()
+        {
+            winPanel.SetActive(true);
         }
     }
 }
