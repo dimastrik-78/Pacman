@@ -1,36 +1,39 @@
 using System.Collections;
-using System.Collections.Generic;
+using Interface;
 using UnityEngine;
-using EnemySystem;
 
-public class EnemyOrange : Enemy
+namespace EnemySystem
 {
-    [SerializeField] private Transform[] route;
-
-    private float _time = 1;
-    private int _indexRoute = 0;
-
-    private void Start()
+    public class EnemyOrange : Enemy
     {
-        _navMeshAgent.SetDestination(route[_indexRoute].position);
-    }
+        [SerializeField] private Transform[] route;
+        
+        private int _indexRoute;
 
-    void Update()
-    {
-        _time -= Time.deltaTime;
-        if (_navMeshAgent.remainingDistance == 0
-            && _time <= 0)
+        private void Start()
         {
-            _indexRoute++;
+            NavMeshAgent.SetDestination(route[_indexRoute].position);
+
+            StartCoroutine(UpdateRoute());
+        }
+
+        IEnumerator UpdateRoute()
+        {
+            yield return new WaitForSeconds(0.1f);
             
-            if (_indexRoute >= route.Length)
+            if (NavMeshAgent.remainingDistance == 0)
             {
-                _indexRoute = 0;
+                _indexRoute++;
+            
+                if (_indexRoute >= route.Length)
+                {
+                    _indexRoute = 0;
+                }
+
+                NavMeshAgent.SetDestination(route[_indexRoute].position);
             }
-
-            _navMeshAgent.SetDestination(route[_indexRoute].position);
-
-            _time = 1;
+            
+            StartCoroutine(UpdateRoute());
         }
     }
 }

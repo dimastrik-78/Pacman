@@ -1,21 +1,17 @@
 using System;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 namespace UISystem
 {
-    public class UIPacman : MonoBehaviour
+    public class GameUI : MonoBehaviour
     {
         [SerializeField] private Text point;
         [SerializeField] private List<GameObject> hpPacman;
         [SerializeField] private GameObject losePanel;
         [SerializeField] private GameObject winPanel;
-        
-        private void Awake()
-        {
-            
-        }
 
         public void ChangePoint(int points)
         {
@@ -30,12 +26,22 @@ namespace UISystem
 
         public void LosePanel()
         {
-            losePanel.SetActive(false);
+            losePanel.SetActive(true);
         }
 
         public void WinPanel()
         {
             winPanel.SetActive(true);
+        }
+
+        public void ResetGame()
+        {
+            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+        }
+
+        public void MainMenu()
+        {
+            SceneManager.LoadScene(0);
         }
     }
 }
