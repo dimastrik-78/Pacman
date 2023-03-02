@@ -1,4 +1,5 @@
 using System.Collections;
+using EnemySystem.State;
 using Interface;
 using UnityEngine;
 
@@ -23,6 +24,11 @@ namespace EnemySystem
             
             if (NavMeshAgent.remainingDistance == 0)
             {
+                if (EnemyStateMachine._currentPlayerState is DeadState)
+                {
+                    EnemyStateMachine.ChangeState(0);
+                }
+                
                 _indexRoute++;
             
                 if (_indexRoute >= RouteList.Count)

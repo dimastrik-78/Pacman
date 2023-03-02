@@ -10,7 +10,7 @@ namespace EnemySystem.State
         // public static Action<Type> OnChangeState;
 
         private Dictionary<int, AEnemyState> _states;
-        private AEnemyState _currentPlayerState;
+        protected internal AEnemyState _currentPlayerState;
         private int _stateID;
 
         public EnemyStateMachine(SpriteRenderer sprite, Color baseColor, Color deadColor, Color vulnerableColor)
@@ -22,7 +22,7 @@ namespace EnemySystem.State
                 { 2, new DeadState(this, sprite, deadColor) }
             };
             
-            ChangeState(_stateID);
+            ChangeState(0);
             // OnChangeState?.Invoke(_states[_stateID].GetType());
         }
 

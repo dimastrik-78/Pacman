@@ -18,28 +18,30 @@ namespace EnemySystem
         [SerializeField] private Color baseColor;
         [SerializeField] private Color deadColor;
         [SerializeField] private Color vulnerableColor;
-
+        
+        protected readonly List<Transform> RouteList = new();
+        protected readonly Random Random = new();
+        
         protected NavMeshAgent NavMeshAgent;
-        protected List<Transform> RouteList = new();
-        protected Random Random = new();
+        protected EnemyStateMachine EnemyStateMachine;
         
-        private bool _canGetDamage;
-        private EnemyStateMachine _enemyStateMachine;
-        //private Transform _target;
-        
+        private Vector3 _spawnPosition;
+
         public int GivePoint { get; set; }
 
         protected virtual void Awake()
         {
             FindRoute();
-            
+
+            _spawnPosition = transform.position;
+
             NavMeshAgent = GetComponent<NavMeshAgent>();
             NavMeshAgent.updateRotation = false;
             NavMeshAgent.updateUpAxis = false;
 
             NavMeshAgent.speed = speed;
 
-            _enemyStateMachine = new EnemyStateMachine(sprite, baseColor, deadColor, vulnerableColor);
+            EnemyStateMachine = new EnemyStateMachine(sprite, baseColor, deadColor, vulnerableColor);
         }
 
         protected virtual IEnumerator UpdateRoute()
@@ -48,6 +50,11 @@ namespace EnemySystem
             
             if (NavMeshAgent.remainingDistance == 0)
             {
+                if (EnemyStateMachine._currentPlayerState is DeadState)
+                {
+                    EnemyStateMachine.ChangeState(0);
+                }
+                
                 NavMeshAgent.SetDestination(RouteList[Random.Next(0, RouteList.Count)].position);
             }
             
@@ -64,9 +71,9 @@ namespace EnemySystem
         
         public void GetDamage()
         {
-            NavMeshAgent.SetDestination(new Vector2(0, 0));
+            NavMeshAgent.SetDestination(_spawnPosition);
 
-            _enemyStateMachine.ChangeState(2);
+            EnemyStateMachine.ChangeState(2);
         }
     }
 }
