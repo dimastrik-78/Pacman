@@ -1,49 +1,43 @@
 ﻿using System;
 using System.Collections.Generic;
 using UnityEngine;
+using Utils;
 
 namespace EnemySystem.State
 {
     public class EnemyStateMachine
     {
-        public static Action<Type> OnChangeState;
+        // public static Action<Type> OnChangeState;
 
         private Dictionary<int, AEnemyState> _states;
         private AEnemyState _currentPlayerState;
-        // private Initializer _initializer;
         private int _stateID;
 
-        public EnemyStateMachine()
+        public EnemyStateMachine(SpriteRenderer sprite, Color baseColor, Color deadColor, Color vulnerableColor)
         {
-            // _initializer = new Initializer();
-            
-            // _initializer.PlayerState(out _states, this, 
-            //     prefabBullet, spawnPointBullet,
-            //     aura,
-            //     playerSprite);
+            _states = new Dictionary<int, AEnemyState>
+            {
+                { 0, new DangerousState(this, sprite, baseColor) },
+                { 1, new VulnerableState(this, sprite, vulnerableColor) },
+                { 2, new DeadState(this, sprite, deadColor) }
+            };
             
             ChangeState(_stateID);
-            OnChangeState?.Invoke(_states[_stateID].GetType());
+            // OnChangeState?.Invoke(_states[_stateID].GetType());
         }
 
-        public void ChangeState()
-        {
-            _stateID++;
-            if (_stateID >= _states.Count)
-                _stateID = 0;
-            
-            ChangeState(_stateID);
-            OnChangeState?.Invoke(_states[_stateID].GetType());
-        }
-        
-        private void ChangeState(int id)
+        public void ExitState()
         {
             _currentPlayerState?.Exit();
+            // ChangeState(_stateID);
+            // OnChangeState?.Invoke(_states[_stateID].GetType());
+        }
+        
+        public void ChangeState(int id)
+        {
+            // _currentPlayerState?.Exit();
             _currentPlayerState = _states[id];
             _currentPlayerState.Enter();
         }
-
-        public void Update() =>
-            _currentPlayerState.Update();
     }
 }

@@ -6,18 +6,18 @@ namespace EnemySystem
 {
     public class EnemyOrange : Enemy
     {
-        [SerializeField] private Transform[] route;
-        
         private int _indexRoute;
 
-        private void Start()
+        protected override void Awake()
         {
-            NavMeshAgent.SetDestination(route[_indexRoute].position);
+            base.Awake();
+            
+            NavMeshAgent.SetDestination(RouteList[_indexRoute].position);
 
             StartCoroutine(UpdateRoute());
         }
 
-        IEnumerator UpdateRoute()
+        protected override IEnumerator UpdateRoute()
         {
             yield return new WaitForSeconds(0.1f);
             
@@ -25,12 +25,12 @@ namespace EnemySystem
             {
                 _indexRoute++;
             
-                if (_indexRoute >= route.Length)
+                if (_indexRoute >= RouteList.Count)
                 {
                     _indexRoute = 0;
                 }
 
-                NavMeshAgent.SetDestination(route[_indexRoute].position);
+                NavMeshAgent.SetDestination(RouteList[_indexRoute].position);
             }
             
             StartCoroutine(UpdateRoute());

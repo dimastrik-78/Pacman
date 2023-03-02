@@ -10,7 +10,7 @@ namespace BonusSystem
         
         [SerializeField] private LayerMask player;
         
-        protected void OnTriggerEnter2D(Collider2D other)
+        protected virtual void OnTriggerEnter2D(Collider2D other)
         {
             if (player.Contains(other.gameObject.layer))
             {

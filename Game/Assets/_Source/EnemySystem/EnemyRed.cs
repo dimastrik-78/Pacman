@@ -2,16 +2,13 @@ namespace EnemySystem
 {
     public class EnemyRed : Enemy
     {
-        // Start is called before the first frame update
-        void Start()
+        protected override void Awake()
         {
-        
-        }
+            base.Awake();
+            
+            NavMeshAgent.SetDestination(RouteList[Random.Next(0, RouteList.Count)].position);
 
-        // Update is called once per frame
-        void Update()
-        {
-        
+            StartCoroutine(UpdateRoute());
         }
     }
 }
