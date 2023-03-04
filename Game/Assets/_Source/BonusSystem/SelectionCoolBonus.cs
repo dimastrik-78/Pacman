@@ -1,14 +1,22 @@
-﻿using PacmanSystem;
+﻿using EnemySystem;
+using PacmanSystem;
 using UnityEngine;
+using Utils;
 
 namespace BonusSystem
 {
     public class SelectionCoolBonus : SelectionUsualBonus
     {
+        [SerializeField] private EnemyControl enemiesControl;
+        
         protected override void OnTriggerEnter2D(Collider2D other)
         {
-            base.OnTriggerEnter2D(other);
-            other.gameObject.GetComponent<PacmanInvoker>().ChangeState();
+            if (player.Contains(other.gameObject.layer))
+            {
+                gameObject.SetActive(false);
+                
+                enemiesControl.GetVulnerable();
+            }
         }
     }
 }

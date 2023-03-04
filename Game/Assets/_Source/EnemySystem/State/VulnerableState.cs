@@ -1,4 +1,6 @@
-﻿using UnityEngine;
+﻿using System.Collections;
+using DG.Tweening;
+using UnityEngine;
 
 namespace EnemySystem.State
 {
@@ -16,6 +18,26 @@ namespace EnemySystem.State
         public override void Enter()
         {
             _sprite.color = _vulnerableColor;
+
+            // StartCoroutine(ChangeColor());
+            // DOTweenCYInstruction.WaitForStart
+            // ChangeColor();
+        }
+
+        private void ChangeColor()
+        {
+            if (_sprite.color == _vulnerableColor)
+            {
+                DOTween.Sequence().SetDelay(1f);
+                _sprite.color = Color.white;
+            }
+            else
+            {
+                DOTween.Sequence().SetDelay(1f).onComplete();
+                _sprite.color = _vulnerableColor;
+            }
+            
+            // StartCoroutine(ChangeColor());
         }
 
         public override void Exit()

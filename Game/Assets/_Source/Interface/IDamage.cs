@@ -1,9 +1,10 @@
-﻿namespace Interface
+﻿using EnemySystem.State;
+
+namespace Interface
 {
     public interface IDamage
     {
-        public int GivePoint { get; set; }
-        
+        public AEnemyState GetState();
         public void GetDamage();
     }
 }

@@ -9,12 +9,12 @@ using Random = System.Random;
 
 namespace EnemySystem
 {
-    public class Enemy : MonoBehaviour, IDamage
+    public class Enemy : MonoBehaviour, IDamage, IVulnerable
     {
-        [SerializeField] private float speed;
         [SerializeField] private Transform route;
-        [SerializeField] protected LayerMask player;
         [SerializeField] protected SpriteRenderer sprite;
+        
+        [SerializeField] private float speed;
         [SerializeField] private Color baseColor;
         [SerializeField] private Color deadColor;
         [SerializeField] private Color vulnerableColor;
@@ -54,6 +54,15 @@ namespace EnemySystem
                 {
                     EnemyStateMachine.ChangeState(0);
                 }
+
+                if (transform.position.x < -9.2f)
+                {
+                    transform.position = new Vector3(9.2f, 0);
+                }
+                else if (transform.position.x > 9.2f)
+                {
+                    transform.position = new Vector3(-9.2f, 0);
+                }
                 
                 NavMeshAgent.SetDestination(RouteList[Random.Next(0, RouteList.Count)].position);
             }
@@ -68,12 +77,27 @@ namespace EnemySystem
                 RouteList.Add(route.GetChild(i));
             }
         }
+
+        public AEnemyState GetState()
+        {
+            return EnemyStateMachine.State();
+        }
         
         public void GetDamage()
         {
             NavMeshAgent.SetDestination(_spawnPosition);
 
             EnemyStateMachine.ChangeState(2);
+        }
+
+        public void EnableVulnerable()
+        {
+            EnemyStateMachine.ChangeState(1);
+        }
+
+        public void DisableVulnerable()
+        {
+            EnemyStateMachine.ChangeState(0);
         }
     }
 }

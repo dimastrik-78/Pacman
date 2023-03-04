@@ -1,14 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using UnityEngine;
-using Utils;
 
 namespace EnemySystem.State
 {
     public class EnemyStateMachine
     {
-        // public static Action<Type> OnChangeState;
-
         private Dictionary<int, AEnemyState> _states;
         protected internal AEnemyState _currentPlayerState;
         private int _stateID;
@@ -23,14 +19,11 @@ namespace EnemySystem.State
             };
             
             ChangeState(0);
-            // OnChangeState?.Invoke(_states[_stateID].GetType());
         }
 
-        public void ExitState()
+        public AEnemyState State()
         {
-            _currentPlayerState?.Exit();
-            // ChangeState(_stateID);
-            // OnChangeState?.Invoke(_states[_stateID].GetType());
+            return _currentPlayerState;
         }
         
         public void ChangeState(int id)

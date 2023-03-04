@@ -1,4 +1,5 @@
 using System;
+using System.Collections;
 using UnityEngine;
 using Utils;
 
@@ -6,16 +7,42 @@ namespace BonusSystem
 {
     public class SelectionUsualBonus : MonoBehaviour
     {
-        public int GivePoint;
+        [SerializeField] protected LayerMask player;
         
-        [SerializeField] private LayerMask player;
+        [SerializeField] private Color firstColor;
+        [SerializeField] private Color secondColor;
+
+        private SpriteRenderer _sprite;
         
+        private void Awake()
+        {
+            _sprite = GetComponent<SpriteRenderer>();
+            
+            StartCoroutine(ChangeColor());
+        }
+
         protected virtual void OnTriggerEnter2D(Collider2D other)
         {
             if (player.Contains(other.gameObject.layer))
             {
                 gameObject.SetActive(false);
             }
+        }
+
+        private IEnumerator ChangeColor()
+        {
+            yield return new WaitForSeconds(1f);
+
+            if (_sprite.color == firstColor)
+            {
+                _sprite.color = secondColor;
+            }
+            else
+            {
+                _sprite.color = firstColor;
+            }
+            
+            StartCoroutine(ChangeColor());
         }
     }
 }

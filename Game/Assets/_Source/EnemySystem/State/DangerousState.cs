@@ -16,7 +16,6 @@ namespace EnemySystem.State
         public override void Enter()
         {
             _sprite.color = _baseColor;
-            // Debug.Log("work");
         }
         
         public override void Exit()
