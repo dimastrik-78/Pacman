@@ -5,17 +5,19 @@ namespace EnemySystem.State
 {
     public class EnemyStateMachine
     {
-        private Dictionary<int, AEnemyState> _states;
-        protected internal AEnemyState _currentPlayerState;
+        protected internal AEnemyState CurrentPlayerState;
+        
+        private readonly Dictionary<int, AEnemyState> _states;
+        
         private int _stateID;
 
-        public EnemyStateMachine(SpriteRenderer sprite, Color baseColor, Color deadColor, Color vulnerableColor)
+        public EnemyStateMachine(SpriteRenderer sprite, CircleCollider2D collider2D, Color baseColor, Color deadColor, Color vulnerableColor)
         {
             _states = new Dictionary<int, AEnemyState>
             {
-                { 0, new DangerousState(this, sprite, baseColor) },
+                { 0, new DangerousState(this, sprite, collider2D, baseColor) },
                 { 1, new VulnerableState(this, sprite, vulnerableColor) },
-                { 2, new DeadState(this, sprite, deadColor) }
+                { 2, new DeadState(this, sprite, collider2D, deadColor) }
             };
             
             ChangeState(0);
@@ -23,14 +25,13 @@ namespace EnemySystem.State
 
         public AEnemyState State()
         {
-            return _currentPlayerState;
+            return CurrentPlayerState;
         }
         
         public void ChangeState(int id)
         {
-            // _currentPlayerState?.Exit();
-            _currentPlayerState = _states[id];
-            _currentPlayerState.Enter();
+            CurrentPlayerState = _states[id];
+            CurrentPlayerState.Enter();
         }
     }
 }

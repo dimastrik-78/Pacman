@@ -7,6 +7,14 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/24d45e813e524a99bfb7a145158a7980157a00/84/5af365c4/Time.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/24d45e813e524a99bfb7a145158a7980157a00/bb/b8f61ce4/MonoBehaviour.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5a41d6b7189842eca409fd0b1c3e3dcf17bf78/1b/afdaa820/MethodImplOptions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5a41d6b7189842eca409fd0b1c3e3dcf17bf78/5f/65a5572f/Action`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/66e1b7a02cda49e2bc24a00bf9826315ca00/e6/848dd186/NavMeshAgent.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7fcbec1462af40b9b2f26200f2f0f1161f800/56/6f9e999c/Collider2D.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -85,6 +93,20 @@
       <workItem from="1677748103321" duration="5947000" />
       <workItem from="1677761175463" duration="4016000" />
       <workItem from="1677923540466" duration="9613000" />
+      <workItem from="1678011590385" duration="5824000" />
+      <workItem from="1678023394360" duration="2843000" />
+      <workItem from="1678084988320" duration="11699000" />
+      <workItem from="1678117340767" duration="1758000" />
+      <workItem from="1678168273850" duration="1039000" />
+      <workItem from="1678172204550" duration="1569000" />
+      <workItem from="1678176730601" duration="4756000" />
+      <workItem from="1678190625576" duration="220000" />
+      <workItem from="1678218698746" duration="6500000" />
+      <workItem from="1678254991938" duration="1398000" />
+      <workItem from="1678263500976" duration="2536000" />
+      <workItem from="1678271671390" duration="11262000" />
+      <workItem from="1678290124995" duration="1905000" />
+      <workItem from="1678350488177" duration="760000" />
     </task>
     <servers />
   </component>

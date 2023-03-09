@@ -1,4 +1,3 @@
-using System;
 using System.Collections;
 using System.Collections.Generic;
 using EnemySystem.State;
@@ -9,31 +8,30 @@ using Random = System.Random;
 
 namespace EnemySystem
 {
-    public class Enemy : MonoBehaviour, IDamage, IVulnerable
+    public class Enemy : MonoBehaviour, IDamage
     {
-        [SerializeField] private Transform route;
+        [SerializeField] protected float recoveryTime;
         [SerializeField] protected SpriteRenderer sprite;
-        
+
+        [SerializeField] private Transform route;
         [SerializeField] private float speed;
         [SerializeField] private Color baseColor;
         [SerializeField] private Color deadColor;
         [SerializeField] private Color vulnerableColor;
+        [SerializeField] private CircleCollider2D baseCollider;
         
         protected readonly List<Transform> RouteList = new();
         protected readonly Random Random = new();
         
         protected NavMeshAgent NavMeshAgent;
         protected EnemyStateMachine EnemyStateMachine;
+        protected Vector3 SpawnPosition;
         
-        private Vector3 _spawnPosition;
-
-        public int GivePoint { get; set; }
-
         protected virtual void Awake()
         {
             FindRoute();
 
-            _spawnPosition = transform.position;
+            SpawnPosition = transform.position;
 
             NavMeshAgent = GetComponent<NavMeshAgent>();
             NavMeshAgent.updateRotation = false;
@@ -41,7 +39,7 @@ namespace EnemySystem
 
             NavMeshAgent.speed = speed;
 
-            EnemyStateMachine = new EnemyStateMachine(sprite, baseColor, deadColor, vulnerableColor);
+            EnemyStateMachine = new EnemyStateMachine(sprite, baseCollider, baseColor, deadColor, vulnerableColor);
         }
 
         protected virtual IEnumerator UpdateRoute()
@@ -50,18 +48,21 @@ namespace EnemySystem
             
             if (NavMeshAgent.remainingDistance == 0)
             {
-                if (EnemyStateMachine._currentPlayerState is DeadState)
+                if (EnemyStateMachine.CurrentPlayerState is DeadState)
                 {
+                    yield return new WaitForSeconds(recoveryTime);
+                    
                     EnemyStateMachine.ChangeState(0);
                 }
 
-                if (transform.position.x < -9.2f)
+                switch (transform.position.x)
                 {
-                    transform.position = new Vector3(9.2f, 0);
-                }
-                else if (transform.position.x > 9.2f)
-                {
-                    transform.position = new Vector3(-9.2f, 0);
+                    case < -9.2f:
+                        transform.position = new Vector3(9.2f, 0);
+                        break;
+                    case > 9.2f:
+                        transform.position = new Vector3(-9.2f, 0);
+                        break;
                 }
                 
                 NavMeshAgent.SetDestination(RouteList[Random.Next(0, RouteList.Count)].position);
@@ -83,9 +84,9 @@ namespace EnemySystem
             return EnemyStateMachine.State();
         }
         
-        public void GetDamage()
+        public virtual void GetDamage()
         {
-            NavMeshAgent.SetDestination(_spawnPosition);
+            NavMeshAgent.SetDestination(SpawnPosition);
 
             EnemyStateMachine.ChangeState(2);
         }
@@ -98,6 +99,23 @@ namespace EnemySystem
         public void DisableVulnerable()
         {
             EnemyStateMachine.ChangeState(0);
+        }
+
+        public virtual IEnumerator Restart(float pauseTime)
+        {
+            NavMeshAgent.enabled = false;
+            
+            yield return new WaitForSeconds(2f);
+            
+            transform.position = SpawnPosition;
+            
+            EnemyStateMachine.ChangeState(0);
+            
+            yield return new WaitForSeconds(pauseTime);
+            
+            NavMeshAgent.enabled = true;
+            
+            NavMeshAgent.SetDestination(RouteList[Random.Next(0, RouteList.Count)].position);
         }
     }
 }

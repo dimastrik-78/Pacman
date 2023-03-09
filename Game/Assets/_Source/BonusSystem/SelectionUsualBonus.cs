@@ -1,4 +1,3 @@
-using System;
 using System.Collections;
 using UnityEngine;
 using Utils;
@@ -11,6 +10,8 @@ namespace BonusSystem
         
         [SerializeField] private Color firstColor;
         [SerializeField] private Color secondColor;
+        [SerializeField] private LeftBonuses leftBonuses;
+        [SerializeField] private AudioSource audioSource;
 
         private SpriteRenderer _sprite;
         
@@ -25,6 +26,8 @@ namespace BonusSystem
         {
             if (player.Contains(other.gameObject.layer))
             {
+                audioSource.Play();
+                leftBonuses.Invoke();
                 gameObject.SetActive(false);
             }
         }
