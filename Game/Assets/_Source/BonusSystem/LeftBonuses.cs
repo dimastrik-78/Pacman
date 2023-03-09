@@ -13,10 +13,12 @@ namespace BonusSystem
         private void Awake()
         {
             _left = transform.childCount;
+            Debug.Log(_left + " всего");
         }
 
         private void Check()
         {
+            Debug.Log(_left);
             if (_left <= 0)
             {
                 winAudio.Play();

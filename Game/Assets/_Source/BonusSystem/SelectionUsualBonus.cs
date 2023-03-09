@@ -6,12 +6,12 @@ namespace BonusSystem
 {
     public class SelectionUsualBonus : MonoBehaviour
     {
+        [SerializeField] protected LeftBonuses leftBonuses;
+        [SerializeField] protected AudioSource audioSource;
         [SerializeField] protected LayerMask player;
         
         [SerializeField] private Color firstColor;
         [SerializeField] private Color secondColor;
-        [SerializeField] private LeftBonuses leftBonuses;
-        [SerializeField] private AudioSource audioSource;
 
         private SpriteRenderer _sprite;
         

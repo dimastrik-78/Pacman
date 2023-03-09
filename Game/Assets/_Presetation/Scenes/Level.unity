@@ -699,13 +699,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &18699619
 GameObject:
   m_ObjectHideFlags: 0
@@ -820,13 +820,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &21227098
 GameObject:
   m_ObjectHideFlags: 0
@@ -1069,13 +1069,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &28121512
 GameObject:
   m_ObjectHideFlags: 0
@@ -1446,13 +1446,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &52761113
 GameObject:
   m_ObjectHideFlags: 0
@@ -1823,13 +1823,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &62249341
 GameObject:
   m_ObjectHideFlags: 0
@@ -1944,13 +1944,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &63534450
 GameObject:
   m_ObjectHideFlags: 0
@@ -2065,13 +2065,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &69568445
 GameObject:
   m_ObjectHideFlags: 0
@@ -2186,13 +2186,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &85523232
 GameObject:
   m_ObjectHideFlags: 0
@@ -2386,13 +2386,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &87500055
 GameObject:
   m_ObjectHideFlags: 0
@@ -2507,13 +2507,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &88767904
 GameObject:
   m_ObjectHideFlags: 0
@@ -2704,13 +2704,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &93558861
 GameObject:
   m_ObjectHideFlags: 0
@@ -2825,13 +2825,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &97184374
 GameObject:
   m_ObjectHideFlags: 0
@@ -3105,13 +3105,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &104697519
 GameObject:
   m_ObjectHideFlags: 0
@@ -3257,13 +3257,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &115077676
 GameObject:
   m_ObjectHideFlags: 0
@@ -3543,13 +3543,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &129231294
 GameObject:
   m_ObjectHideFlags: 0
@@ -3664,13 +3664,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &129967745
 GameObject:
   m_ObjectHideFlags: 0
@@ -3785,13 +3785,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &130887752
 GameObject:
   m_ObjectHideFlags: 0
@@ -3985,13 +3985,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &135621564
 GameObject:
   m_ObjectHideFlags: 0
@@ -4234,13 +4234,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &142091298
 GameObject:
   m_ObjectHideFlags: 0
@@ -4446,13 +4446,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &156023001
 GameObject:
   m_ObjectHideFlags: 0
@@ -4726,13 +4726,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &177470014
 GameObject:
   m_ObjectHideFlags: 0
@@ -4847,13 +4847,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &181224094
 GameObject:
   m_ObjectHideFlags: 0
@@ -4968,13 +4968,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &189619708
 GameObject:
   m_ObjectHideFlags: 0
@@ -5217,13 +5217,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &192180550
 GameObject:
   m_ObjectHideFlags: 0
@@ -5466,13 +5466,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &198636416
 GameObject:
   m_ObjectHideFlags: 0
@@ -5623,13 +5623,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &202351850
 GameObject:
   m_ObjectHideFlags: 0
@@ -5744,13 +5744,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &204627061
 GameObject:
   m_ObjectHideFlags: 0
@@ -5865,13 +5865,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &204649902
 GameObject:
   m_ObjectHideFlags: 0
@@ -6142,13 +6142,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &230228167
 GameObject:
   m_ObjectHideFlags: 0
@@ -6344,13 +6344,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &236787826
 GameObject:
   m_ObjectHideFlags: 0
@@ -6465,13 +6465,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &239856317
 GameObject:
   m_ObjectHideFlags: 0
@@ -6837,13 +6837,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &260097712
 GameObject:
   m_ObjectHideFlags: 0
@@ -7086,13 +7086,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &270194710
 GameObject:
   m_ObjectHideFlags: 0
@@ -7207,13 +7207,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &270527914
 GameObject:
   m_ObjectHideFlags: 0
@@ -7328,13 +7328,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &273548604
 GameObject:
   m_ObjectHideFlags: 0
@@ -7449,13 +7449,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &276122827
 GameObject:
   m_ObjectHideFlags: 0
@@ -7672,13 +7672,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &280767443
 GameObject:
   m_ObjectHideFlags: 0
@@ -7793,13 +7793,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &286750485
 GameObject:
   m_ObjectHideFlags: 0
@@ -7914,13 +7914,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &289987337
 GameObject:
   m_ObjectHideFlags: 0
@@ -8163,13 +8163,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &295152000
 GameObject:
   m_ObjectHideFlags: 0
@@ -8346,13 +8346,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &305929207
 GameObject:
   m_ObjectHideFlags: 0
@@ -8595,13 +8595,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &317329537
 GameObject:
   m_ObjectHideFlags: 0
@@ -8716,13 +8716,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &318081461
 GameObject:
   m_ObjectHideFlags: 0
@@ -8837,13 +8837,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &321444224
 GameObject:
   m_ObjectHideFlags: 0
@@ -9086,13 +9086,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &330138973
 GameObject:
   m_ObjectHideFlags: 0
@@ -9207,13 +9207,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &331721644
 GameObject:
   m_ObjectHideFlags: 0
@@ -9328,13 +9328,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &336629477
 GameObject:
   m_ObjectHideFlags: 0
@@ -9480,13 +9480,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &341303195
 GameObject:
   m_ObjectHideFlags: 0
@@ -9729,13 +9729,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &345516189
 GameObject:
   m_ObjectHideFlags: 0
@@ -9978,13 +9978,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &361533489
 GameObject:
   m_ObjectHideFlags: 0
@@ -10130,13 +10130,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &364745283
 GameObject:
   m_ObjectHideFlags: 0
@@ -10251,13 +10251,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &365635763
 GameObject:
   m_ObjectHideFlags: 0
@@ -10562,13 +10562,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &388468318
 GameObject:
   m_ObjectHideFlags: 0
@@ -10683,13 +10683,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &396968917
 GameObject:
   m_ObjectHideFlags: 0
@@ -10835,13 +10835,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &402698239
 GameObject:
   m_ObjectHideFlags: 0
@@ -11084,13 +11084,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &409649360
 GameObject:
   m_ObjectHideFlags: 0
@@ -11236,13 +11236,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &411801105
 GameObject:
   m_ObjectHideFlags: 0
@@ -11388,13 +11388,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &416518006
 GameObject:
   m_ObjectHideFlags: 0
@@ -11509,13 +11509,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &417880052
 GameObject:
   m_ObjectHideFlags: 0
@@ -11630,13 +11630,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &418399277
 GameObject:
   m_ObjectHideFlags: 0
@@ -11751,13 +11751,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &422998637
 GameObject:
   m_ObjectHideFlags: 0
@@ -11872,13 +11872,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &424727811
 GameObject:
   m_ObjectHideFlags: 0
@@ -11993,13 +11993,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &428512758
 GameObject:
   m_ObjectHideFlags: 0
@@ -12114,13 +12114,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &431710574
 GameObject:
   m_ObjectHideFlags: 0
@@ -12235,13 +12235,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &434396594
 GameObject:
   m_ObjectHideFlags: 0
@@ -12490,13 +12490,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &439311689
 GameObject:
   m_ObjectHideFlags: 0
@@ -12801,13 +12801,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &469549109
 GameObject:
   m_ObjectHideFlags: 0
@@ -13081,13 +13081,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &486748487
 GameObject:
   m_ObjectHideFlags: 0
@@ -13202,13 +13202,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &487680266
 GameObject:
   m_ObjectHideFlags: 0
@@ -13392,13 +13392,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &501426077
 GameObject:
   m_ObjectHideFlags: 0
@@ -13513,13 +13513,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &505604406
 GameObject:
   m_ObjectHideFlags: 0
@@ -13634,13 +13634,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &507050628
 GameObject:
   m_ObjectHideFlags: 0
@@ -13755,13 +13755,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &512103487
 GameObject:
   m_ObjectHideFlags: 0
@@ -14004,13 +14004,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &517332658
 GameObject:
   m_ObjectHideFlags: 0
@@ -14465,13 +14465,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &526399075
 GameObject:
   m_ObjectHideFlags: 0
@@ -14586,13 +14586,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &527237161
 GameObject:
   m_ObjectHideFlags: 0
@@ -14707,13 +14707,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &529584864
 GameObject:
   m_ObjectHideFlags: 0
@@ -14828,13 +14828,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &538028312
 GameObject:
   m_ObjectHideFlags: 0
@@ -14949,13 +14949,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &542333282
 GameObject:
   m_ObjectHideFlags: 0
@@ -15117,13 +15117,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &551916464
 GameObject:
   m_ObjectHideFlags: 0
@@ -15238,13 +15238,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &552167277
 GameObject:
   m_ObjectHideFlags: 0
@@ -15487,13 +15487,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &561059285
 GameObject:
   m_ObjectHideFlags: 0
@@ -15608,13 +15608,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &566970231
 GameObject:
   m_ObjectHideFlags: 0
@@ -15729,13 +15729,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &573219021
 GameObject:
   m_ObjectHideFlags: 0
@@ -15850,13 +15850,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &578906232
 GameObject:
   m_ObjectHideFlags: 0
@@ -15971,13 +15971,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &582764728
 GameObject:
   m_ObjectHideFlags: 0
@@ -16123,13 +16123,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &589572105
 GameObject:
   m_ObjectHideFlags: 0
@@ -16244,13 +16244,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &592547143
 GameObject:
   m_ObjectHideFlags: 0
@@ -16365,13 +16365,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &595624105
 GameObject:
   m_ObjectHideFlags: 0
@@ -16486,13 +16486,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &598445828
 GameObject:
   m_ObjectHideFlags: 0
@@ -16735,13 +16735,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &609701979
 GameObject:
   m_ObjectHideFlags: 0
@@ -16856,13 +16856,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &609749518
 GameObject:
   m_ObjectHideFlags: 0
@@ -17039,13 +17039,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &635392039
 GameObject:
   m_ObjectHideFlags: 0
@@ -17191,13 +17191,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &641761397
 GameObject:
   m_ObjectHideFlags: 0
@@ -17312,13 +17312,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &644890122
 GameObject:
   m_ObjectHideFlags: 0
@@ -17513,13 +17513,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &648607161
 GameObject:
   m_ObjectHideFlags: 0
@@ -17634,13 +17634,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &658065990
 GameObject:
   m_ObjectHideFlags: 0
@@ -18167,13 +18167,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &671227920
 GameObject:
   m_ObjectHideFlags: 0
@@ -18288,13 +18288,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &672161261
 GameObject:
   m_ObjectHideFlags: 0
@@ -18409,13 +18409,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &677994289
 GameObject:
   m_ObjectHideFlags: 0
@@ -18530,13 +18530,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &678059544
 GameObject:
   m_ObjectHideFlags: 0
@@ -18651,13 +18651,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &691821856
 GameObject:
   m_ObjectHideFlags: 0
@@ -18772,13 +18772,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &692345019
 GameObject:
   m_ObjectHideFlags: 0
@@ -18893,13 +18893,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &694728916
 GameObject:
   m_ObjectHideFlags: 0
@@ -19142,13 +19142,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &702389665
 GameObject:
   m_ObjectHideFlags: 0
@@ -19294,13 +19294,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &713995676
 GameObject:
   m_ObjectHideFlags: 0
@@ -19347,13 +19347,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d6239422265d4a81bfafab7435ea4b14, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 1418813358}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 1418813358}
   enemiesControl: {fileID: 230228169}
 --- !u!58 &713995679
 CircleCollider2D:
@@ -19537,13 +19537,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &723478069
 GameObject:
   m_ObjectHideFlags: 0
@@ -19689,13 +19689,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &728698311
 GameObject:
   m_ObjectHideFlags: 0
@@ -19872,13 +19872,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &732874772
 GameObject:
   m_ObjectHideFlags: 0
@@ -20024,13 +20024,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &740069061
 GameObject:
   m_ObjectHideFlags: 0
@@ -20145,13 +20145,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &741394160
 GameObject:
   m_ObjectHideFlags: 0
@@ -20327,8 +20327,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   prefabPacman: {fileID: 2043675578}
   spawnPoint: {fileID: 1955741038}
-  prefabsEnemy: []
-  enemySpawnPoints: []
   enemies:
   - {fileID: 545675737}
   - {fileID: 1639821086}
@@ -20354,7 +20352,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 14997c9f27134aa1b0fb2d1a42de5a44, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pauseTime: 2
 --- !u!1 &746962232
 GameObject:
   m_ObjectHideFlags: 0
@@ -20597,13 +20594,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &761938987
 GameObject:
   m_ObjectHideFlags: 0
@@ -20718,13 +20715,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &763310268
 GameObject:
   m_ObjectHideFlags: 0
@@ -20839,13 +20836,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &763431764
 GameObject:
   m_ObjectHideFlags: 0
@@ -21150,13 +21147,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &781610769
 GameObject:
   m_ObjectHideFlags: 0
@@ -21399,13 +21396,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &784424267
 GameObject:
   m_ObjectHideFlags: 0
@@ -21520,13 +21517,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &785212737
 GameObject:
   m_ObjectHideFlags: 0
@@ -21769,13 +21766,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &799542850
 GameObject:
   m_ObjectHideFlags: 0
@@ -21890,13 +21887,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &804619468
 GameObject:
   m_ObjectHideFlags: 0
@@ -22011,13 +22008,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &805279825
 GameObject:
   m_ObjectHideFlags: 0
@@ -22194,13 +22191,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &814715886
 GameObject:
   m_ObjectHideFlags: 0
@@ -22443,13 +22440,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &817934836
 GameObject:
   m_ObjectHideFlags: 0
@@ -22595,13 +22592,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &824371880
 GameObject:
   m_ObjectHideFlags: 0
@@ -22716,13 +22713,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &826831182
 GameObject:
   m_ObjectHideFlags: 0
@@ -22868,13 +22865,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &835484339
 GameObject:
   m_ObjectHideFlags: 0
@@ -22989,13 +22986,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &851680244
 GameObject:
   m_ObjectHideFlags: 0
@@ -23110,13 +23107,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &855576681
 GameObject:
   m_ObjectHideFlags: 0
@@ -23231,13 +23228,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &866311712
 GameObject:
   m_ObjectHideFlags: 0
@@ -23352,13 +23349,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &868913841
 GameObject:
   m_ObjectHideFlags: 0
@@ -23632,13 +23629,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &878532202
 GameObject:
   m_ObjectHideFlags: 0
@@ -24040,13 +24037,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &903974679
 GameObject:
   m_ObjectHideFlags: 0
@@ -24161,13 +24158,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &906076996
 GameObject:
   m_ObjectHideFlags: 0
@@ -24441,13 +24438,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &922486719
 GameObject:
   m_ObjectHideFlags: 0
@@ -24562,13 +24559,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &932486962
 GameObject:
   m_ObjectHideFlags: 0
@@ -24683,13 +24680,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &936529656
 GameObject:
   m_ObjectHideFlags: 0
@@ -25060,13 +25057,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &958477096
 GameObject:
   m_ObjectHideFlags: 0
@@ -25257,13 +25254,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &964731751
 GameObject:
   m_ObjectHideFlags: 0
@@ -25378,13 +25375,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &965439674
 GameObject:
   m_ObjectHideFlags: 0
@@ -25499,13 +25496,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &968667888
 GameObject:
   m_ObjectHideFlags: 0
@@ -25620,13 +25617,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &974385235
 GameObject:
   m_ObjectHideFlags: 0
@@ -25772,13 +25769,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &976183580
 GameObject:
   m_ObjectHideFlags: 0
@@ -25893,13 +25890,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &978620471
 GameObject:
   m_ObjectHideFlags: 0
@@ -26045,13 +26042,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &980022854
 GameObject:
   m_ObjectHideFlags: 0
@@ -26166,13 +26163,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &982123776
 GameObject:
   m_ObjectHideFlags: 0
@@ -26287,13 +26284,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &985239461
 GameObject:
   m_ObjectHideFlags: 0
@@ -26408,13 +26405,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &986639870
 GameObject:
   m_ObjectHideFlags: 0
@@ -26529,13 +26526,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &988455579
 GameObject:
   m_ObjectHideFlags: 0
@@ -26650,13 +26647,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &996020452
 GameObject:
   m_ObjectHideFlags: 0
@@ -26771,13 +26768,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1001641734
 GameObject:
   m_ObjectHideFlags: 0
@@ -26892,13 +26889,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1005006884
 GameObject:
   m_ObjectHideFlags: 0
@@ -27013,13 +27010,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1011550327
 GameObject:
   m_ObjectHideFlags: 0
@@ -27165,13 +27162,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1018942756
 GameObject:
   m_ObjectHideFlags: 0
@@ -27366,13 +27363,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1026362427
 GameObject:
   m_ObjectHideFlags: 0
@@ -27615,13 +27612,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1029739744
 GameObject:
   m_ObjectHideFlags: 0
@@ -27736,13 +27733,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1029946643
 GameObject:
   m_ObjectHideFlags: 0
@@ -27919,13 +27916,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1037745279
 GameObject:
   m_ObjectHideFlags: 0
@@ -28040,13 +28037,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!58 &1039454322 stripped
 CircleCollider2D:
   m_CorrespondingSourceObject: {fileID: 358361701584564110, guid: 04c570ea860a2f844ae787920a1a4cdd, type: 3}
@@ -28246,13 +28243,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1048470622
 GameObject:
   m_ObjectHideFlags: 0
@@ -28398,13 +28395,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1051774380
 GameObject:
   m_ObjectHideFlags: 0
@@ -28550,13 +28547,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1056532623
 GameObject:
   m_ObjectHideFlags: 0
@@ -28671,13 +28668,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1060427007
 GameObject:
   m_ObjectHideFlags: 0
@@ -28823,13 +28820,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1063954198
 GameObject:
   m_ObjectHideFlags: 0
@@ -28944,13 +28941,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1070273954
 GameObject:
   m_ObjectHideFlags: 0
@@ -29065,13 +29062,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1075533662
 GameObject:
   m_ObjectHideFlags: 0
@@ -29186,13 +29183,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1080679968
 GameObject:
   m_ObjectHideFlags: 0
@@ -29466,13 +29463,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1090921295
 GameObject:
   m_ObjectHideFlags: 0
@@ -29721,13 +29718,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1104512640
 GameObject:
   m_ObjectHideFlags: 0
@@ -29970,13 +29967,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1109235528
 GameObject:
   m_ObjectHideFlags: 0
@@ -30219,13 +30216,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1132806221
 GameObject:
   m_ObjectHideFlags: 0
@@ -30340,13 +30337,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1133848893
 GameObject:
   m_ObjectHideFlags: 0
@@ -30461,13 +30458,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1140164202
 GameObject:
   m_ObjectHideFlags: 0
@@ -30582,13 +30579,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1147552251
 GameObject:
   m_ObjectHideFlags: 0
@@ -31405,13 +31402,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1165530587
 GameObject:
   m_ObjectHideFlags: 0
@@ -31526,13 +31523,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1171924779
 GameObject:
   m_ObjectHideFlags: 0
@@ -31678,13 +31675,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1173525562
 GameObject:
   m_ObjectHideFlags: 0
@@ -31799,13 +31796,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1174979049
 GameObject:
   m_ObjectHideFlags: 0
@@ -31920,13 +31917,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1176063381
 GameObject:
   m_ObjectHideFlags: 0
@@ -31973,13 +31970,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d6239422265d4a81bfafab7435ea4b14, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 1418813358}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 1418813358}
   enemiesControl: {fileID: 230228169}
 --- !u!58 &1176063384
 CircleCollider2D:
@@ -32194,13 +32191,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1198087991
 GameObject:
   m_ObjectHideFlags: 0
@@ -32315,13 +32312,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1199953561
 GameObject:
   m_ObjectHideFlags: 0
@@ -32436,13 +32433,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1206644322
 GameObject:
   m_ObjectHideFlags: 0
@@ -32619,13 +32616,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1226690557
 GameObject:
   m_ObjectHideFlags: 0
@@ -32771,13 +32768,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1250703469
 GameObject:
   m_ObjectHideFlags: 0
@@ -32923,13 +32920,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1257272054
 GameObject:
   m_ObjectHideFlags: 0
@@ -33044,13 +33041,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1258088181
 GameObject:
   m_ObjectHideFlags: 0
@@ -33165,13 +33162,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1264523849
 GameObject:
   m_ObjectHideFlags: 0
@@ -33366,13 +33363,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1267801350
 GameObject:
   m_ObjectHideFlags: 0
@@ -33549,13 +33546,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1278422405
 GameObject:
   m_ObjectHideFlags: 0
@@ -33670,13 +33667,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1282547820
 GameObject:
   m_ObjectHideFlags: 0
@@ -33919,13 +33916,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1289331150
 GameObject:
   m_ObjectHideFlags: 0
@@ -34040,13 +34037,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1292657980
 GameObject:
   m_ObjectHideFlags: 0
@@ -34161,13 +34158,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1292973616
 GameObject:
   m_ObjectHideFlags: 0
@@ -34282,13 +34279,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1295693520
 GameObject:
   m_ObjectHideFlags: 0
@@ -34403,13 +34400,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1297906875
 GameObject:
   m_ObjectHideFlags: 0
@@ -34763,13 +34760,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1304716821
 GameObject:
   m_ObjectHideFlags: 0
@@ -35067,13 +35064,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1319549700
 GameObject:
   m_ObjectHideFlags: 0
@@ -35188,13 +35185,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1319598696
 GameObject:
   m_ObjectHideFlags: 0
@@ -35309,13 +35306,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1331145086
 GameObject:
   m_ObjectHideFlags: 0
@@ -35430,13 +35427,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1340285391
 GameObject:
   m_ObjectHideFlags: 0
@@ -35732,13 +35729,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1345186011
 GameObject:
   m_ObjectHideFlags: 0
@@ -35884,13 +35881,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1348801383
 GameObject:
   m_ObjectHideFlags: 0
@@ -36005,13 +36002,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1349355993
 GameObject:
   m_ObjectHideFlags: 0
@@ -36157,13 +36154,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1352793965
 GameObject:
   m_ObjectHideFlags: 0
@@ -36278,13 +36275,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1354083946
 GameObject:
   m_ObjectHideFlags: 0
@@ -36399,13 +36396,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1355737445
 GameObject:
   m_ObjectHideFlags: 0
@@ -36520,13 +36517,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1360781604
 GameObject:
   m_ObjectHideFlags: 0
@@ -36845,13 +36842,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1389887071
 GameObject:
   m_ObjectHideFlags: 0
@@ -36966,13 +36963,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1390648871
 GameObject:
   m_ObjectHideFlags: 0
@@ -37149,13 +37146,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1404350073
 GameObject:
   m_ObjectHideFlags: 0
@@ -37270,13 +37267,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1407618757
 GameObject:
   m_ObjectHideFlags: 0
@@ -37519,13 +37516,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1418813356
 GameObject:
   m_ObjectHideFlags: 0
@@ -37768,13 +37765,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1422870945
 GameObject:
   m_ObjectHideFlags: 0
@@ -37889,13 +37886,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1438799944
 GameObject:
   m_ObjectHideFlags: 0
@@ -38010,13 +38007,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1454546812
 GameObject:
   m_ObjectHideFlags: 0
@@ -38131,13 +38128,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1466814398
 GameObject:
   m_ObjectHideFlags: 0
@@ -38283,13 +38280,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1470548044
 GameObject:
   m_ObjectHideFlags: 0
@@ -38404,13 +38401,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1472097229
 GameObject:
   m_ObjectHideFlags: 0
@@ -38556,13 +38553,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1480611210
 GameObject:
   m_ObjectHideFlags: 0
@@ -38677,13 +38674,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1483322289
 GameObject:
   m_ObjectHideFlags: 0
@@ -38955,13 +38952,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1499705864
 GameObject:
   m_ObjectHideFlags: 0
@@ -39138,13 +39135,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1503289402
 GameObject:
   m_ObjectHideFlags: 0
@@ -39259,13 +39256,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1511180251
 GameObject:
   m_ObjectHideFlags: 0
@@ -39442,13 +39439,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1528549350
 GameObject:
   m_ObjectHideFlags: 0
@@ -39594,13 +39591,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1534605240
 GameObject:
   m_ObjectHideFlags: 0
@@ -39715,13 +39712,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1536879240
 GameObject:
   m_ObjectHideFlags: 0
@@ -39836,13 +39833,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1540397046
 GameObject:
   m_ObjectHideFlags: 0
@@ -40019,13 +40016,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1544808731
 GameObject:
   m_ObjectHideFlags: 0
@@ -40140,13 +40137,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1545640460
 GameObject:
   m_ObjectHideFlags: 0
@@ -40261,13 +40258,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1560918749
 GameObject:
   m_ObjectHideFlags: 0
@@ -40382,13 +40379,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1571461689
 GameObject:
   m_ObjectHideFlags: 0
@@ -40503,13 +40500,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1572094209
 GameObject:
   m_ObjectHideFlags: 0
@@ -40624,13 +40621,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1582089828
 GameObject:
   m_ObjectHideFlags: 0
@@ -40745,13 +40742,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1582229207
 GameObject:
   m_ObjectHideFlags: 0
@@ -40946,13 +40943,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1590893643
 GameObject:
   m_ObjectHideFlags: 0
@@ -41195,13 +41192,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1600573010
 GameObject:
   m_ObjectHideFlags: 0
@@ -41316,13 +41313,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1603387825
 GameObject:
   m_ObjectHideFlags: 0
@@ -41565,13 +41562,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1611096449
 GameObject:
   m_ObjectHideFlags: 0
@@ -41686,13 +41683,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1612946415
 GameObject:
   m_ObjectHideFlags: 0
@@ -41807,13 +41804,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1620896898
 GameObject:
   m_ObjectHideFlags: 0
@@ -42312,13 +42309,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1628166186
 GameObject:
   m_ObjectHideFlags: 0
@@ -42433,13 +42430,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!4 &1639821085 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 522745167466014078, guid: 43c4a5f791b64154b9d85b0743078015, type: 3}
@@ -42611,13 +42608,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1650916164
 GameObject:
   m_ObjectHideFlags: 0
@@ -42732,13 +42729,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1651501008
 GameObject:
   m_ObjectHideFlags: 0
@@ -42853,13 +42850,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1662721493
 GameObject:
   m_ObjectHideFlags: 0
@@ -42974,13 +42971,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1669783269
 GameObject:
   m_ObjectHideFlags: 0
@@ -43095,13 +43092,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1670111512
 GameObject:
   m_ObjectHideFlags: 0
@@ -43216,13 +43213,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1675941713
 GameObject:
   m_ObjectHideFlags: 0
@@ -43517,13 +43514,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1692171731
 GameObject:
   m_ObjectHideFlags: 0
@@ -43638,13 +43635,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1693047283
 GameObject:
   m_ObjectHideFlags: 0
@@ -43759,13 +43756,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1697538325
 GameObject:
   m_ObjectHideFlags: 0
@@ -43880,13 +43877,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1705044967
 GameObject:
   m_ObjectHideFlags: 0
@@ -44001,13 +43998,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1707511944
 GameObject:
   m_ObjectHideFlags: 0
@@ -44281,13 +44278,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1719283496
 GameObject:
   m_ObjectHideFlags: 0
@@ -44402,13 +44399,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1720666466
 GameObject:
   m_ObjectHideFlags: 0
@@ -44523,13 +44520,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1732546875
 GameObject:
   m_ObjectHideFlags: 0
@@ -44644,13 +44641,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1737152290
 GameObject:
   m_ObjectHideFlags: 0
@@ -44765,13 +44762,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1739123832
 GameObject:
   m_ObjectHideFlags: 0
@@ -44818,13 +44815,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d6239422265d4a81bfafab7435ea4b14, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 1418813358}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 1418813358}
   enemiesControl: {fileID: 230228169}
 --- !u!58 &1739123835
 CircleCollider2D:
@@ -45008,13 +45005,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1744393912
 GameObject:
   m_ObjectHideFlags: 0
@@ -45129,13 +45126,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1745981710
 GameObject:
   m_ObjectHideFlags: 0
@@ -45512,13 +45509,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1755064007
 GameObject:
   m_ObjectHideFlags: 0
@@ -45761,13 +45758,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1766907726
 GameObject:
   m_ObjectHideFlags: 0
@@ -45882,13 +45879,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1770365649
 GameObject:
   m_ObjectHideFlags: 0
@@ -46034,13 +46031,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1786104901
 GameObject:
   m_ObjectHideFlags: 0
@@ -46186,13 +46183,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1797183825
 GameObject:
   m_ObjectHideFlags: 0
@@ -46466,13 +46463,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1807788875
 GameObject:
   m_ObjectHideFlags: 0
@@ -46587,13 +46584,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1811948933
 GameObject:
   m_ObjectHideFlags: 0
@@ -46708,13 +46705,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1812250384
 GameObject:
   m_ObjectHideFlags: 0
@@ -46909,13 +46906,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1829568508
 GameObject:
   m_ObjectHideFlags: 0
@@ -47030,13 +47027,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1836092719
 GameObject:
   m_ObjectHideFlags: 0
@@ -47151,13 +47148,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1839677898
 GameObject:
   m_ObjectHideFlags: 0
@@ -47303,13 +47300,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1846524609
 GameObject:
   m_ObjectHideFlags: 0
@@ -47552,13 +47549,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1859632870
 GameObject:
   m_ObjectHideFlags: 0
@@ -47704,13 +47701,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1866863046
 GameObject:
   m_ObjectHideFlags: 0
@@ -47825,13 +47822,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1869357817
 GameObject:
   m_ObjectHideFlags: 0
@@ -47946,13 +47943,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1870653994
 GameObject:
   m_ObjectHideFlags: 0
@@ -48067,13 +48064,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1872433568
 GameObject:
   m_ObjectHideFlags: 0
@@ -48347,13 +48344,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1880640014
 GameObject:
   m_ObjectHideFlags: 0
@@ -48468,13 +48465,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1881706633
 GameObject:
   m_ObjectHideFlags: 0
@@ -48620,13 +48617,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1887525638
 GameObject:
   m_ObjectHideFlags: 0
@@ -48741,13 +48738,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1888280893
 GameObject:
   m_ObjectHideFlags: 0
@@ -48893,13 +48890,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1890404365
 GameObject:
   m_ObjectHideFlags: 0
@@ -49014,13 +49011,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1896462263
 GameObject:
   m_ObjectHideFlags: 0
@@ -49502,13 +49499,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d6239422265d4a81bfafab7435ea4b14, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 1418813358}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 1418813358}
   enemiesControl: {fileID: 230228169}
 --- !u!1 &1914519438
 GameObject:
@@ -49624,13 +49621,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1917095234
 GameObject:
   m_ObjectHideFlags: 0
@@ -49745,13 +49742,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1918788353
 GameObject:
   m_ObjectHideFlags: 0
@@ -49866,13 +49863,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1930198219
 GameObject:
   m_ObjectHideFlags: 0
@@ -49987,13 +49984,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1930694070
 GameObject:
   m_ObjectHideFlags: 0
@@ -50139,13 +50136,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1937577700
 GameObject:
   m_ObjectHideFlags: 0
@@ -50260,13 +50257,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1940000070
 GameObject:
   m_ObjectHideFlags: 0
@@ -50509,13 +50506,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1950091587
 GameObject:
   m_ObjectHideFlags: 0
@@ -50630,13 +50627,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1955741037
 GameObject:
   m_ObjectHideFlags: 0
@@ -50782,13 +50779,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1958200484
 GameObject:
   m_ObjectHideFlags: 0
@@ -50934,13 +50931,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!58 &1966979306 stripped
 CircleCollider2D:
   m_CorrespondingSourceObject: {fileID: 4756933215610162201, guid: c231f262b0b2b5c4595f4578d32f537f, type: 3}
@@ -51316,13 +51313,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1979793535
 GameObject:
   m_ObjectHideFlags: 0
@@ -51437,13 +51434,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1981059247
 GameObject:
   m_ObjectHideFlags: 0
@@ -51558,13 +51555,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1983124308
 GameObject:
   m_ObjectHideFlags: 0
@@ -51679,13 +51676,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &1984963956
 GameObject:
   m_ObjectHideFlags: 0
@@ -51990,13 +51987,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &2010500768
 GameObject:
   m_ObjectHideFlags: 0
@@ -52111,13 +52108,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &2011909681
 GameObject:
   m_ObjectHideFlags: 0
@@ -52232,13 +52229,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &2018334628
 GameObject:
   m_ObjectHideFlags: 0
@@ -52384,13 +52381,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &2021013973
 GameObject:
   m_ObjectHideFlags: 0
@@ -52505,13 +52502,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &2037907373
 GameObject:
   m_ObjectHideFlags: 0
@@ -52887,13 +52884,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &2049833769
 GameObject:
   m_ObjectHideFlags: 0
@@ -53136,13 +53133,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &2058982530
 GameObject:
   m_ObjectHideFlags: 0
@@ -53385,13 +53382,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &2066046080
 GameObject:
   m_ObjectHideFlags: 0
@@ -53506,13 +53503,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &2069345218
 GameObject:
   m_ObjectHideFlags: 0
@@ -53658,13 +53655,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &2069953021
 GameObject:
   m_ObjectHideFlags: 0
@@ -53779,13 +53776,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &2070002023
 GameObject:
   m_ObjectHideFlags: 0
@@ -53962,13 +53959,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &2089925262
 GameObject:
   m_ObjectHideFlags: 0
@@ -54145,13 +54142,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &2108338251
 GameObject:
   m_ObjectHideFlags: 0
@@ -54266,13 +54263,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &2110877478
 GameObject:
   m_ObjectHideFlags: 0
@@ -54784,13 +54781,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &2127055833
 GameObject:
   m_ObjectHideFlags: 0
@@ -54905,13 +54902,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &2127079292
 GameObject:
   m_ObjectHideFlags: 0
@@ -55057,13 +55054,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &2139823611
 GameObject:
   m_ObjectHideFlags: 0
@@ -55178,13 +55175,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &2139917418
 GameObject:
   m_ObjectHideFlags: 0
@@ -55299,13 +55296,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &2141268727
 GameObject:
   m_ObjectHideFlags: 0
@@ -55451,13 +55448,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1 &2144206215
 GameObject:
   m_ObjectHideFlags: 0
@@ -55572,13 +55569,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a4455fc4b4f3e4488283941ed0b85a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftBonuses: {fileID: 2122175238}
+  audioSource: {fileID: 305929208}
   player:
     serializedVersion: 2
     m_Bits: 64
   firstColor: {r: 1, g: 0.5882353, b: 1, a: 1}
   secondColor: {r: 1, g: 0.78431374, b: 1, a: 1}
-  leftBonuses: {fileID: 2122175238}
-  audioSource: {fileID: 305929208}
 --- !u!1001 &358361701691330628
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -55964,6 +55961,10 @@ PrefabInstance:
     - target: {fileID: 6370546153426385100, guid: 500bd68b715c9e94c93fd426e7e75d40, type: 3}
       propertyPath: m_Name
       value: Blue
+      objectReference: {fileID: 0}
+    - target: {fileID: 6370546153426385100, guid: 500bd68b715c9e94c93fd426e7e75d40, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6370546153426385103, guid: 500bd68b715c9e94c93fd426e7e75d40, type: 3}
       propertyPath: m_Radius

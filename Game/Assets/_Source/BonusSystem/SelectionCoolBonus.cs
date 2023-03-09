@@ -12,6 +12,9 @@ namespace BonusSystem
         {
             if (player.Contains(other.gameObject.layer))
             {
+                audioSource.Play();
+                leftBonuses.Invoke();
+                
                 gameObject.SetActive(false);
                 
                 enemiesControl.GetVulnerable();
